@@ -1,2 +1,3 @@
-# example_dotnetcore_cowsay
+# Cowsay
+
 Small program to display quotes on the stdio based on a quotes file

@@ -1,0 +1,9 @@
+
+# Binaries
+stage/
+
+# Visual Studio
+**/*.user
+
+# Vim
+**/tags
